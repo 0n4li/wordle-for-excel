@@ -10,7 +10,7 @@ Original link on web - https://www.powerlanguage.co.uk/wordle/
 
 # How to Play?
 
-1. Download and Save Wordle.xlsm
+1. Download and Save [Wordle.xlsm](https://github.com/0n4li/wordle-for-excel/blob/main/Wordle.xlsm?raw=true)
 2. Open the file on your computer and enable Macros
 3. Press Restart Button
 4. Make up to 6 attempts to guess the word by typing in the 5 white cells
