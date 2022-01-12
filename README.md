@@ -17,7 +17,7 @@ Link to the Original game on web - https://www.powerlanguage.co.uk/wordle/
 5. Press Check to See if the word matches. All letters of the attempted word are highlighted as per below:
    - Green means letter is in the exact place
    - Yellow means letter is present in the word 
-   - Gray means word is not present in the word
+   - Gray means letter is not present in the word
 
 # Screenshot
 
