@@ -18,3 +18,9 @@ Original link on web - https://www.powerlanguage.co.uk/wordle/
    - Green means letter is in exact place
    - Yellow means letter is present in the word 
    - Gray means word is not present in the word
+
+# Credits
+
+- Josh Wardle for creating the original game [Twitter](https://twitter.com/powerlanguish)
+- 5 letter words picked from [Yourdictionary.com](https://wordfinder.yourdictionary.com/letter-words/5/)
+
