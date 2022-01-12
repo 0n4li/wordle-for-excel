@@ -15,9 +15,13 @@ Original link on web - https://www.powerlanguage.co.uk/wordle/
 3. Press Restart Button
 4. Make up to 6 attempts to guess the word by typing in the 5 white cells
 5. Press Check to See if the word matches. All letters of the attempted word are highlighted as per below:
-   - Green means letter is in exact place
+   - Green means letter is in the exact place
    - Yellow means letter is present in the word 
    - Gray means word is not present in the word
+
+# Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/0n4li/wordle-for-excel/main/screenshot.png)
 
 # Credits
 
